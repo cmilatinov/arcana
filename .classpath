@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Autismo/src"/>
+	<classpathentry kind="lib" path="Autismo/lib/jars/java-utils.jar"/>
+	<classpathentry kind="output" path="Autismo/bin"/>
+</classpath>
